@@ -14,3 +14,23 @@
 - React Router
 - TypeScript
 - Vite
+
+## Установка и запуск
+
+1. Клонируйте репозиторий:
+```bash
+git clone https://github.com/your-username/product-catalog.git
+```
+
+2. Установите зависимости:
+```bash
+cd product-catalog
+npm install
+```
+
+3. Запустите проект:
+```bash
+npm run dev
+```
+
+4. Откройте браузер и перейдите по адресу `http://localhost:5173`
