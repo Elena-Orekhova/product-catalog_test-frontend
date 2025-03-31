@@ -19,12 +19,11 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/your-username/product-catalog.git
+git clone https://github.com/Elena-Orekhova/product-catalog_test-frontend.git
 ```
 
 2. Установите зависимости:
 ```bash
-cd product-catalog
 npm install
 ```
 
